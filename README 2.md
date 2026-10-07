@@ -13,7 +13,7 @@
 - Manage end-to-end **import/export operations**: classification (HS codes), logistics, documentation and suppliers
 
 ### Featured project
-📊 **[Vehicle & Heavy Equipment Import Study](https://github.com/YOUR-USERNAME/vehicle-and-heavy-equipment-import-study)**: market study of passenger vehicle and High & Heavy cargo imports from the US East Coast into West Coast South America and the Caribbean. Includes a working Excel demo of the full method on fictional data.
+📊 **[Vehicle & Heavy Equipment Import Study](https://github.com/Luis-Serra31/vehicle-and-heavy-equipment-import-study)**: market study of passenger vehicle and High & Heavy cargo imports from the US East Coast into West Coast South America and the Caribbean. Includes a working Excel demo of the full method on fictional data.
 
 ### Let's connect
-[LinkedIn](https://www.linkedin.com/in/your-profile) · Open to **remote** roles in international trade, logistics and commercial analysis
+[LinkedIn](https://www.linkedin.com/in/luis-serra/)) · Open to **remote** roles in international trade, logistics and commercial analysis
